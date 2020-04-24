@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DungeonProjectCSC200", "DungeonProjectCSC200\DungeonProjectCSC200.pyproj", "{717E8E78-7082-4009-B544-24531CE8FC59}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dungeonProject", "dungeonProject\dungeonProject.pyproj", "{CBD139C7-B030-411F-886E-A74B3D0C55D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{717E8E78-7082-4009-B544-24531CE8FC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{717E8E78-7082-4009-B544-24531CE8FC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD139C7-B030-411F-886E-A74B3D0C55D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD139C7-B030-411F-886E-A74B3D0C55D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {17091959-A7A4-42CC-B7FB-1AA30BFBA130}
+		SolutionGuid = {C9244B90-401C-4910-8009-0F36C67CDC81}
 	EndGlobalSection
 EndGlobal
