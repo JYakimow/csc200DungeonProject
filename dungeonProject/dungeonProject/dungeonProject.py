@@ -149,10 +149,10 @@ def main():
     theMap.buildRooms()
     print()
     #theMap = MapBuilder("theMap.json")
-   # theMap.BuildExits()
+    #theMap.BuildExits()
 
-    thePlayer = Player("[Mr. Gonzales]")
-    R1.addPlayer(thePlayer)
+    #thePlayer = Player("[Mr. Gonzales]")
+    #R1.addPlayer(thePlayer)
     
     #Dragon = Monster("[Dragon]", 15)
     #R6.addMonster(Dragon)
