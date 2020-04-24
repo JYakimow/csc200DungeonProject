@@ -160,6 +160,8 @@ def main():
     Rat = Monster("[Rat]", 3)
     R1.addMonster(Rat)
 
+
+    """
     while True:
         thePlayer.currentRoom.display()
         command = input("What would you like to do? : ")
@@ -202,7 +204,7 @@ def main():
         else:
             thePlayer.currentRoom.takeExit(thePlayer, command)
     print("Goodbye!")
-
+    """
         
 if __name__ == "__main__":
     main()
