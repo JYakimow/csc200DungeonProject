@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Cave Entrance",
+    "description": "The Cave Entrance",
+    "ID": "R1",
+    "exits": [
+      {
+        "direction": "north",
+        "destinationID": "R2"
+      }
+    ]
+  },
+  {
+    "title": "The second Room",
+    "description": "its just a dark room, like any room in a cave",
+    "ID": "R2",
+    "exits": [
+      {
+        "direction": "south",
+        "destinationID": "R1"
+      },
+      {
+        "direction": "north",
+        "destinationID": "R3"
+      }
+    ]
+  },
+  {
+    "title": "The third Room",
+    "description": "its just a dark room, like any room in a cave",
+    "ID": "R3",
+    "exits": [
+      {
+        "direction": "south",
+        "destinationID": "R2"
+      }
+    ]
+  }
+] 
